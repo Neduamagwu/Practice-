@@ -25,7 +25,7 @@ def home():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Thinknyx Technologies</title>
+    <title>Welcome to Polypop Technologies</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -90,7 +90,7 @@ def home():
     <!-- Updated Careers Link - Now points to /careers -->
     <a href="/careers" class="nav-link">Careers</a>
 
-    <h1>Welcome to Thinknyx Technologies!</h1>
+    <h1>Welcome to Polypop Technologies!</h1>
     <p>We specialize in providing innovative solutions to make your business thrive. Explore our services below:</p>
 
     <div class="services">
@@ -109,7 +109,7 @@ def home():
     </div>
 
     <footer>
-        <p>From Thinknyx Technologies</p>
+        <p>From Polypop Technologies</p>
     </footer>
 
     <!-- Display current date, unique system ID, and private IP -->
@@ -178,7 +178,7 @@ def careers():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Careers - Thinknyx Technologies</title>
+    <title>Careers - Polypop Technologies</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -267,7 +267,7 @@ def careers():
     <!-- Add link back to home -->
     <a href="/" class="nav-link">Home</a>
 
-    <h1>Careers at Thinknyx Technologies</h1>
+    <h1>Careers at Polypop Technologies</h1>
     <p>We are always looking for talented individuals to join our team! Please fill in your details and upload your resume below:</p>
 
     <!-- File Upload Form -->
@@ -319,7 +319,7 @@ def careers():
     </form>
 
     <footer>
-        <p>From Thinknyx Technologies</p>
+        <p>From Polypop Technologies</p>
     </footer>
 </body>
 </html>
